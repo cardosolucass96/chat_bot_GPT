@@ -1,7 +1,7 @@
 
 # Chat com Documentos PDF (RAG)
 
-Este projeto cria um chatbot que responde perguntas com base no conteúdo de documentos PDF carregados pelo usuário. Ele utiliza __LangChain__ para processamento e recuperação de informações e Streamlit para a interface interativa.
+Este projeto cria um chatbot que responde perguntas com base no conteúdo de documentos PDF carregados pelo usuário. Ele utiliza __LangChain__ para processamento e recuperação de informações e __Streamlit__ para a interface interativa.
 
 
 
